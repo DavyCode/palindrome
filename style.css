@@ -1,0 +1,33 @@
+body,
+html {
+    background-color: rgb(89, 39, 139);
+    font-size: 20px;
+    margin: 10px 180px;
+    font-family: serif;
+
+}
+
+.main{
+    position: relative;
+    border: 10px solid goldenrod;
+    /* display: inline-block; */
+    min-width: 100vh;
+    min-height: 80vh;
+}
+
+input{
+	font-size: 18px;
+	color: #2980B9;
+	background: #F7F7F7;
+	width: 50%;
+	padding: 10px 10px 10px 10px;
+	box-sizing: border-box; 
+	border: 3px solid rgba(0,0,0,0);
+}
+button{
+    color: black;
+    background: rgb(250, 89, 61);
+    margin-top: 10px;
+    padding: 10px 10px 10px 10px;
+    width: 50%;
+}
